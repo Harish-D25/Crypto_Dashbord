@@ -57,3 +57,13 @@ open your Prefered IDE
 In The Terminal Run 
 - npm install
 - npm run dev
+
+## OUTPUT
+
+![image](https://github.com/user-attachments/assets/2c7e112d-6d7f-4854-8c57-edb4bd788047)
+
+![image](https://github.com/user-attachments/assets/c5c90404-0cda-46ed-af8e-5e6087202ba4)
+
+![image](https://github.com/user-attachments/assets/0988aa7c-62f0-47db-8efd-8ada5733339f)
+
+
