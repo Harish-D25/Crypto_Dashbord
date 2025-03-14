@@ -100,7 +100,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 
 For questions or support, reach out via:
 - **Email**: [harish.hema04@gmail.com](mailto:harish.hema04@gmail.com)
-- **GitHub Issues**: [Open an issue](https://github.com/Harish-D25/Crypto-Dashboard/issues)
+- **GitHub Issues**: [Open an issue](https://github.com/Harish-D25/Crypto_Dashbord/issues)
 
 ---
 
